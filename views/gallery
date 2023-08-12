@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title> Home </title>
+  <link rel="stylesheet" href="/public/style.css">
+  <link rel="stylesheet" href="./style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@10..48,400;10..48,500;10..48,800&display=swap" rel="stylesheet">
+
+</head>
+<body>
+<h1> Expositions and artwork </h1>
+<img class = "images" src="/public/img/art1.jpg" alt="artwork"/>
+<img class = "images" src="/public/img/art2.jpg" alt="artwork"/>
+<img class = "images" src="/public/img/art3.jpg" alt="artwork"/>
+<a href="/" class="back-to-main-button"> Back </a>
+</body>
+</html>
